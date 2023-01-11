@@ -109,7 +109,7 @@ Aqui você vai encontrar os detalhes de como está estruturado e foi desenvolvid
 
   A construção das tabelas através do ORM, seguiu o seguinte *DER*:
 
-  ![DER](./public/der.png)
+  ![DER](.Tryitter/public/der.png)
 
   ---
 
